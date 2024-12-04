@@ -1,4 +1,4 @@
-# NetX: Advanced Network Analysis and Security Toolkit
+# NetX: Advanced Network Analysis and Security Toolkit (under developement)
 
 NetX is a powerful, multi-purpose tool designed for network engineers and cybersecurity analysts. It enables detailed analysis of live network data and PCAP files, with a focus on usability and precision. NetX provides real-time monitoring, advanced scanning, and intuitive visualizations to help users identify vulnerabilities and secure their networks.
 
